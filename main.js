@@ -6,9 +6,9 @@ let moveLinkButton = document.querySelector ('.js--moveLinkButton')
 getLinkButton.addEventListener('click', inputLink)
 moveLinkButton.addEventListener('click', trekLink)
 
-
+ 
 function inputLink (){
-  myLink = prompt('Введите ссылку')
+ myLink = prompt('Введите ссылку')
   
 }
 
